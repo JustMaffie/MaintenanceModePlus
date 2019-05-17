@@ -1,0 +1,8 @@
+name: MaintenanceModePlus
+main: nl.justmaffie.maintenancemodeplus.MaintenanceModePlus
+version: ${mmp-version}
+api-version: 1.13
+author: JustMaffie
+description: Maintenance mode what else
+commands:
+  maintenance:
